@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+  }
+header img{
+  background-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url('image.jpg');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+#nav-top{
+  background-attachment: fixed;
+  border: 0px;
+  background-color: aliceblue;
+    
+}
+#name{
+
+
+}
